@@ -33,10 +33,10 @@ add_action('wp_head', function()
     echo (<<<HTML
         <script type="text/javascript" id="consent-studio-google-como">
             /**
-                * Manual implementation of the Consent Studio CMP
-                * - Remember to replace the following placeholders: [YOUR DOMAIN HERE]
-                * - Remember to adjust the default consent signals if needed
-                */
+             * Manual implementation of the Consent Studio CMP
+             * - Remember to replace the following placeholders: [YOUR DOMAIN HERE]
+             * - Remember to adjust the default consent signals if needed
+             */
 
             /** Initialize the dataLayer variable */
             window.dataLayer = window.dataLayer || [];
@@ -52,9 +52,9 @@ add_action('wp_head', function()
                 else
             {
                 /** 
-                * Set the default consent signals
-                * (You may edit these defaults)
-                */
+                 * Set the default consent signals
+                 * (You may edit these defaults)
+                 */
                 gtag("consent", "default", { 
                     ad_storage: "denied", 
                     ad_user_data: "denied", 
@@ -68,9 +68,9 @@ add_action('wp_head', function()
             }
 
             /** 
-                * Set a value for ads data redaction
-                * - More information: https://support.google.com/analytics/answer/13544947?hl=en
-                */
+             * Set a value for ads data redaction
+             * - More information: https://support.google.com/analytics/answer/13544947?hl=en
+             */
             gtag("set", "ads_data_redaction", true);
 
             /** Set the Consent Studio developer ID */
