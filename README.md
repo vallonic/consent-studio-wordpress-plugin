@@ -14,4 +14,12 @@ An account on https://consent.studio is required in order to be able to use our 
 * Collaborate with colleagues
 * Statistics
 * Geotargeting
-* Consent log
+* Consent log with 1 year retention
+
+## Support
+In case that an issue arrises with this plugin, please let us know using one of the following channels:
+
+* Live chat in your Consent Studio dashboard https://consent.studio
+* E-mail support@consent.studio
+
+Also, we do have an extensive knowledge base available for you on https://intercom.help/consent-studio.
