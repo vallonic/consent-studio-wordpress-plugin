@@ -22,4 +22,6 @@ In case that an issue arrises with this plugin, please let us know using one of 
 * Live chat in your Consent Studio dashboard https://consent.studio
 * E-mail support@consent.studio
 
-Also, we do have an extensive knowledge base available for you on https://intercom.help/consent-studio.
+Also, we do have an extensive knowledge base available for you on https://intercom.help/consent-studio/en.
+
+🇳🇱 Our support is also available in Dutch (NL).
